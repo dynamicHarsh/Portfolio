@@ -394,9 +394,9 @@ nav .fas{
     .header-text h5 a{
         color:black
     }
-/*     .header-text h5{
-        margin-top: 70vh;
-    } */
+    .header-text h5{
+        margin-top: 40px;
+    }
     .sub-title{
         font-size: 40px;
     }
