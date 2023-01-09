@@ -428,7 +428,9 @@ nav .fas{
     .mobile-hello{
         display: block;
     }
-    
+    .header-text{
+        margin-top: 30%;
+    }
     
 }
 #msg{
